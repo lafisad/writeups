@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2026-06-26"
             }
+          },
+          {
+            "id": "040bca3b158d77b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OBACK!!!.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBACK!!!"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "egg/2026-06-26.md",
+                "file": "OBACK!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-06-26"
+              "title": "Rückverweise auf OBACK!!!"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "egg/2026-06-26.md",
+                "file": "OBACK!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2026-06-26 öffnen"
+              "title": "Ausgehende Links von OBACK!!! öffnen"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "egg/2026-06-26.md",
+                "file": "OBACK!!!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2026-06-26"
+              "title": "Gliederung von OBACK!!!"
             }
           }
         ]
@@ -198,10 +212,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0a783110cfd74712",
+  "active": "040bca3b158d77b7",
   "lastOpenFiles": [
-    "Unbenannt.md",
     "egg/2026-06-26.md",
+    "OBACK!!!.md",
     "DISCLAIMER.md",
     "egg",
     "weird route/2026-06-26.md",
