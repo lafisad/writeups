@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weird route/2026-06-26.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-26"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weird route/2026-06-26.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-06-26"
+              "title": "Rückverweise auf README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weird route/2026-06-26.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2026-06-26 öffnen"
+              "title": "Ausgehende Links von README öffnen"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weird route/2026-06-26.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2026-06-26"
+              "title": "Gliederung von README"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "07eaaed4cc9169f4",
   "lastOpenFiles": [
+    "weird route/2026-06-26.md",
     "README.md",
     "weird route/README.md",
-    "weird route/2026-06-26.md",
     "weird route/Notes.md",
     "weird route writeup.md",
     "weird route"
